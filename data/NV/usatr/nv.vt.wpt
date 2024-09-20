@@ -1,8 +1,4 @@
-#Virginia and Truckee
-
-CarCity http://www.openstreetmap.org/?lat=39.202502&lon=-119.679482
-+X1 http://www.openstreetmap.org/?lat=39.207010&lon=-119.678063
-+X2 http://www.openstreetmap.org/?lat=39.208423&lon=-119.681958
+CarCity http://www.openstreetmap.org/?lat=39.202502&lon=-119.679482+X1 http://www.openstreetmap.org/?lat=39.207010&lon=-119.678063+X2 http://www.openstreetmap.org/?lat=39.208423&lon=-119.681958
 +X3 http://www.openstreetmap.org/?lat=39.210826&lon=-119.683170
 +X4 http://www.openstreetmap.org/?lat=39.216786&lon=-119.681228
 +X5 http://www.openstreetmap.org/?lat=39.220767&lon=-119.682119
